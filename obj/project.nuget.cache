@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkEsszgQzqmFZDge2oszxFBc5QzkR/9XLgxaETIBGvnJ4RWuRkHz5ZD8WjpUsu1ZRmkAbcTOc7NhNotIHdnqPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\c#academy\\TCSA.OOP.LibraryManagementSystem\\TCSA.OOP.LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
